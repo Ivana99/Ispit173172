@@ -1,4 +1,4 @@
 # Ispit173172
-14.06
-If you can't see or open the file ,please notife me.
+05.08
+I updated my notebook for the Extra poents, if yout cant's see the LaTex formula,the Plptly grafhs, or the Youtube videos please notify me.
 173172
